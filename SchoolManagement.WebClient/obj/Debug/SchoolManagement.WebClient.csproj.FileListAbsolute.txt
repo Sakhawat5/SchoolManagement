@@ -1,0 +1,164 @@
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csc.exe
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csc.exe.config
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csc.rsp
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csi.exe
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csi.exe.config
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csi.rsp
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.AppContext.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Console.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Compression.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.FileSystem.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Pipes.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.AccessControl.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Claims.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.ValueTuple.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XPath.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\vbc.exe
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\vbc.exe.config
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\vbc.rsp
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\VBCSCompiler.exe
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csproj.CoreCompileInputs.cache
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csproj.CopyComplete
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+D:\Wafi\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csc.exe
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csc.exe.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csc.rsp
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csi.exe
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csi.exe.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\csi.rsp
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.AppContext.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Console.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Compression.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.FileSystem.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Pipes.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.AccessControl.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Claims.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.ValueTuple.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XPath.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\vbc.exe
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\vbc.exe.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\vbc.rsp
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\VBCSCompiler.exe
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csproj.CopyComplete
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csprojAssemblyReference.cache
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\SchoolManagement.WebClient.pdb
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\csc.exe
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\csc.exe.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\csc.rsp
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\csi.exe
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\csi.exe.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\csi.rsp
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.AppContext.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Console.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\vbc.exe
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\vbc.exe.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\vbc.rsp
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.csproj.CopyComplete
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.WebClient\obj\Debug\SchoolManagement.WebClient.pdb

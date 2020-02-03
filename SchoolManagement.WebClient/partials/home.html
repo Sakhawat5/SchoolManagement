@@ -1,0 +1,34 @@
+<p>This is the partial for view 1.</p>
+
+<span>{{name}}</span>
+
+<div class="row">
+    <div class="col-sm-6">
+        <table border="1">
+
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Phone</th>
+                <th>Address</th>
+                <th>DepartmentId</th>
+                <th>CourseId</th>
+                <th>Action</th>
+            </tr>
+            <tr ng-repeat="s in students">
+                <td>{{s.Id}}</td>
+                <td>{{s.Name}}</td>
+                <td>{{s.phone}}</td>
+                <td>{{s.Address}}</td>
+                <td>{{s.DepartmentId}}</td>
+                <td>{{s.CourseId}}</td>
+                <td>
+                    <button type="button" class="btn btn-warning"><a ng-href="#edit/{{s.Id}}">Edit</a></button>|
+                    <button type="button" class="btn btn-secondary"><a ng-href="#details/{{s.Id}}">Details</a></button>|
+                    <button type="button" class="btn btn-danger"><a ng-href="#delete/{{s.Id}}">Delete</a></button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+

@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-12">
+            <h1>{{title}}</h1><br />
+        </div>
+        <div class="col-sm-6">
+            <span class="float-right">Name: </span>
+        </div>
+        <div class="col-sm-6">
+            <input type="text" ng-model="student.Name" />
+        </div>
+        <div class="col-sm-12"></div>
+        <div class="col-sm-6">
+            <span class="float-right">Phone:</span>
+        </div>
+        <div class="col-sm-6">
+            <input type="text" ng-model="student.Phone" />
+        </div>
+        <div class="col-sm-12"></div>
+        <div class="col-sm-6">
+            <span class="float-right">Address:</span>
+        </div>
+        <div class="col-sm-6">
+            <input type="text" ng-model="student.Address" />
+        </div>
+        <div class="col-sm-12"></div>
+        <div class="col-sm-6">
+            <span class="float-right">DepartmentId:</span>
+        </div>
+        <div class="col-sm-6">
+            <input type="text" ng-model="student.DepartmentId" />
+        </div>
+        <div class="col-sm-12"></div>
+        <div class="col-sm-6">
+            <span class="float-right">CourseId:</span>
+        </div>
+        <div class="col-sm-6">
+            <input type="text" ng-model="student.CourseId" />
+        </div>
+        <div class="col-sm-6"></div>
+        <div class="p-4">
+            <span>{{message}}</span>
+            <button type="button" class="btn btn-light"><a href="#home/"> Go to home</a></button>
+            <button class="btn btn-secondary" ng-click="save()">Save</button>
+        </div>
+    </div>
+</body>
+</html>

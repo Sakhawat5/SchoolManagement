@@ -1,0 +1,59 @@
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll.config
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.pdb
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\EntityFramework.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.pdb
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll.config
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\EntityFramework.xml
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csprojAssemblyReference.cache
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CopyComplete
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll.config
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.pdb
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll.config
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.xml
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csprojAssemblyReference.cache
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CoreCompileInputs.cache
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CopyComplete
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll.config
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.dll
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll.config
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.xml
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csprojAssemblyReference.cache
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CoreCompileInputs.cache
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CopyComplete
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.dll
+D:\Wafi\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\SchoolManagement.Model.dll.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.xml
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csprojAssemblyReference.cache
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.csproj.CopyComplete
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.Manager\obj\Debug\SchoolManagement.Manager.pdb

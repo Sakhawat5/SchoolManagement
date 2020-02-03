@@ -1,0 +1,91 @@
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe.config
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.pdb
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.pdb
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll.config
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.pdb
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll.config
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CopyComplete
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.exe
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.pdb
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\App.config
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sakhawat Hosen\source\repos\StudentManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\App.config
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe.config
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.pdb
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll.config
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.pdb
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll.config
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.xml
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csprojAssemblyReference.cache
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CopyComplete
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.exe
+D:\Wafi\Test\schoolmanagement\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\App.config
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe.config
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.dll
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll.config
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.pdb
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll.config
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.xml
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csprojAssemblyReference.cache
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CopyComplete
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.exe
+D:\Wafi\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\App.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.pdb
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll.config
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.xml
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csprojAssemblyReference.cache
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CopyComplete
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.exe
+D:\Wafi\Test\schoolmanagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.pdb
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\App.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.exe
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.ConsoleApp.pdb
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.pdb
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Manager.dll.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.pdb
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\SchoolManagement.Model.dll.config
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.csproj.CopyComplete
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.exe
+C:\Users\Sakhawat Hosen\Desktop\school\SchoolManagement\SchoolManagement.ConsoleApp\obj\Debug\SchoolManagement.ConsoleApp.pdb
